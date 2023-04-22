@@ -21,4 +21,4 @@ This repository contains implementations of six CPU scheduling algorithms: FCFS,
 ### Preemptive Priority
 * The Preemptive Priority algorithm is a preemptive version of the Non-Preemptive Priority algorithm. It schedules processes based on their priority, where the process with the highest priority is executed first. If two processes have the same priority, the one with the smaller execution time is executed first.
  
-<hr>
+
