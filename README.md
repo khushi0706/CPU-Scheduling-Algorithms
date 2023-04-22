@@ -1,6 +1,6 @@
 # CPU-Scheduling-Algorithms
 
-This repository contains implementations of six CPU scheduling algorithms: FCFS, SJF, SRTF, Round Robin, Non-Preemptive Priority, and Preemptive Priority.
+This repository contains implementations of six CPU scheduling algorithms in a menu-driven code: FCFS, SJF, SRTF, Round Robin, Non-Preemptive Priority and Preemptive Priority.
 
 ## Algorithms
 ### FCFS (First-Come, First-Served)
@@ -19,6 +19,6 @@ This repository contains implementations of six CPU scheduling algorithms: FCFS,
 * The Non-Preemptive Priority algorithm schedules processes based on their priority, where the process with the highest priority is executed first. If two processes have the same priority, FCFS scheduling is used.
 
 ### Preemptive Priority
-* The Preemptive Priority algorithm is a preemptive version of the Non-Preemptive Priority algorithm. It schedules processes based on their priority, where the process with the highest priority is executed first. If two processes have the same priority, the one with the smaller execution time is executed first.
- 
+* The Preemptive Priority algorithm is a preemptive version of the Non-Preemptive Priority algorithm. It schedules processes based on their priority, where the process with the highest priority is executed first. If two processes have the same priority, the one with the smaller execution time is executed first.<br><br>
 
+**Thank you for visiting this repository,feel free to pull a request.**
